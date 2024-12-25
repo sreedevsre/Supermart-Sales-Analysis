@@ -2,6 +2,10 @@
 This project involves the analysis of retail sales data using SQL for data preparation and the creation of an interactive Power BI dashboard to uncover valuable insights. The dashboard helps in identifying trends, customer behavior, and product performance to improve strategic decision-making.
 
 
+
+## About data
+The dataset was obtained from the [Kaggle Super Market Sales](https://www.kaggle.com/datasets/arunjangir245/super-market-sales)..
+
 ## Key Features
 - Feature Engineering:
 
