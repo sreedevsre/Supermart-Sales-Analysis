@@ -59,3 +59,27 @@ Enhanced interactivity with slicers and filters.
 3. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 
 4. **Conclusion:**
+
+## Questions To Answer
+
+1. --  List all cities where transactions occurred.
+2. -- Find the average customer rating for each product line.
+3. -- Identify the payment method used most frequently.
+4. -- Customer Spending Patterns Based on Member Status
+5. -- Get the total tax collected in each city.
+6. -- Revenue Contribution of Different Payment Methods
+7. -- Find the top 3 highest-rated transactions
+8. -- Calculate the total and average sales for transactions with ratings above 8
+9. -- Sales Performance by Category and City
+10. --  Find the top 3 product lines by total revenue
+11. -- Get the average unit price for each product line.
+12. -- Find the transaction with the highest rating
+13. -- Calculate the total cost of goods sold for each payment method.
+14. -- Find the date with the highest gross income.
+15. -- Get the average rating of transactions paid via Ewallet.
+16. -- Find the most expensive product line by unit price.
+17. -- List all product lines purchased in Naypyitaw.
+18. -- Get the average gross income for transactions made by members.
+19. -- Find the top 2 cities with the highest average rating per transaction, but only consider cities where more than 100 transactions occurred.
+20. -- Identify the branch with the most balanced ratio of male to female customers
+21. --  Identify the most common time of day (morning, afternoon, evening, night) for transactions in each city.
