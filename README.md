@@ -9,7 +9,7 @@ Created new attributes such as time-period classifications and transaction segme
 Derived metrics like revenue contributions, tax collected, and average spending.
 - Dynamic Visualizations:
 
-Designed bar charts, pie charts, scatter plots, waterfall charts, and KPI cards for a comprehensive view of business performance.
+Designed bar charts, pie charts, scatter plots, slicers, and KPI cards for a comprehensive view of business performance.
 
 - Actionable Insights:
 
