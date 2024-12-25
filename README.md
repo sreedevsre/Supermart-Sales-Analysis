@@ -22,6 +22,7 @@ Highlighted peak transaction periods and top revenue-generating branches.
 
 ## Technologies Used
 SQL: For data cleaning, feature engineering, and metric calculation.
+
 Power BI: For creating an interactive and visually appealing dashboard.
 
 
