@@ -21,7 +21,7 @@ SQL: For data cleaning, feature engineering, and metric calculation.
 Power BI: For creating an interactive and visually appealing dashboard.
 
 
-##Data Analysis Steps
+## Data Analysis Steps
 - Data Preparation:
 
 Cleaned and structured the dataset.
