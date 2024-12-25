@@ -3,14 +3,15 @@ This project involves the analysis of retail sales data using SQL for data prepa
 
 
 ## Key Features
-Feature Engineering:
+- Feature Engineering:
 
 Created new attributes such as time-period classifications and transaction segmentations based on ratings and customer membership.
 Derived metrics like revenue contributions, tax collected, and average spending.
-Dynamic Visualizations:
+- Dynamic Visualizations:
 
 Designed bar charts, pie charts, scatter plots, waterfall charts, and KPI cards for a comprehensive view of business performance.
-Actionable Insights:
+
+- Actionable Insights:
 
 Identified customer spending patterns and high-performing product lines.
 Highlighted peak transaction periods and top revenue-generating branches.
