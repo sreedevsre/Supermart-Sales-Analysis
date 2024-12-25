@@ -15,3 +15,24 @@ Designed bar charts, pie charts, scatter plots, slicers, and KPI cards for a com
 
 Identified customer spending patterns and high-performing product lines.
 Highlighted peak transaction periods and top revenue-generating branches.
+
+## Technologies Used
+SQL: For data cleaning, feature engineering, and metric calculation.
+Power BI: For creating an interactive and visually appealing dashboard.
+
+
+##Data Analysis Steps
+- Data Preparation:
+
+Cleaned and structured the dataset.
+Used SQL queries to calculate metrics and derive insights.
+
+- Feature Engineering:
+
+Categorized transactions by time periods (morning, afternoon, evening, night).
+Segmented customers by membership type and spending behavior.
+
+- Visualization Design:
+
+Selected visuals best suited for key metrics and trends.
+Enhanced interactivity with slicers and filters.
